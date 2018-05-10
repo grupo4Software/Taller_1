@@ -1,1 +1,3 @@
-# Taller_1
+Johnny Beltrán
+Carolina Burgos
+Tony Veas
