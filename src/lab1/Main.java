@@ -13,7 +13,7 @@ public class Main {
 		GUIView guiView = new GUIView(new GameFactory());
 
 		frame.setTitle("Games 2.0");
-
+		
 		// Add gui to window
 		frame.add(guiView);
 
