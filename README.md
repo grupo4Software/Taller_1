@@ -1,3 +1,3 @@
-Johnny Beltrán
-Carolina Burgos
-Tony Veas
+-Johnny Beltrán
+- Carolina Burgos
+- Tony Veas
